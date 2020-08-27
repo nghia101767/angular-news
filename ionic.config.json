@@ -1,0 +1,7 @@
+{
+  "name": "inews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
